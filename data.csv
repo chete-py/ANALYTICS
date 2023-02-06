@@ -1,0 +1,165 @@
+Frequency,Class,Day,Month,Year,Time,Occupation,Purpose of Trip
+1,Motor Private,Tuesday,January,2014,15:00:00,Driver,Personal / Leisure
+1,Motor Private,Monday,March,2014,08:00:00,Driver,Personal / Leisure
+1,Motor Private,Monday,March,2014,10:00:00,Driver,Personal / Leisure
+1,Motor Private,Tuesday,March,2014,23:00:00,Engineer,Business use
+1,Motor Private,Monday,April,2014,10:00:00,Driver,Personal / Leisure
+1,Motor Private,Wednesday,May,2014,,,
+1,Motor Private,Saturday,May,2014,12:00:00,Mechanic / Service Advisor,Travelling from Work
+1,Motor Private,Sunday,May,2014,07:00:00,Mechanic / Service Advisor,Personal / Leisure
+1,Motor Private,Friday,February,2014,09:00:00,Driver,Personal / Leisure
+1,Motor Private,Thursday,June,2014,21:00:00,Engineer,Personal / Leisure
+1,Motor Private,Thursday,June,2014,02:00:00,,
+1,Motor Private,Saturday,July,2014,02:45:00,Procurement,Personal / Leisure
+1,Motor Private,Friday,July,2014,07:15:00,Engineer,Travelling to Work
+1,Motor Private,Wednesday,September,2014,08:00:00,Finance & Accounting,Personal / Leisure
+1,Group Life ,Friday,October,2014,08:00:00,Driver,
+1,Motor Private,Sunday,October,2014,18:10:00,Office Administrator,Personal / Leisure
+1,Motor Private,Wednesday,October,2014,16:30:00,Sales and Marketing,Personal / Leisure
+1,Motor Private,Sunday,November,2014,08:00:00,Engineer,Personal / Leisure
+1,Motor Private,Wednesday,November,2014,10:00:00,Engineer,Vehicle was Stationary
+1,Motor Private,Saturday,December,2014,03:00:00,Food Processor,Personal / Leisure
+1,Group Life ,Wednesday,April,2015,,,
+1,Motor Private,Saturday,February,2015,19:30:00,Engineer,Personal / Leisure
+1,Motor Private,Monday,February,2015,08:30:00,Sales and Marketing,Travelling to Work
+1,Motor Private,Wednesday,March,2015,17:45:00,Sales and Marketing,Personal / Leisure
+1,Motor Private,Monday,March,2015,17:30:00,Engineer,Personal / Leisure
+1,Motor Private,Friday,April,2015,,,
+1,Motor Private,Wednesday,June,2015,19:45:00,Engineer,Travelling to Work
+1,Motor Private,Friday,August,2015,08:00:00,Engineer,Personal / Leisure
+1,Motor Private,Tuesday,September,2015,,,
+1,Motor Private,Saturday,September,2015,21:00:00,Food Processor,Personal / Leisure
+1,Motor Private,Sunday,September,2015,08:00:00,Engineer,Personal / Leisure
+1,Group Life ,Tuesday,July,2015,08:00:00,Engineer,
+1,Motor Private,Monday,September,2015,12:15:00,Finance & Accounting,Personal / Leisure
+1,Motor Private,Friday,September,2015,08:00:00,Sales and Marketing,Business use
+1,Motor Private,Tuesday,September,2015,09:30:00,Engineer,Personal / Leisure
+1,Marine Cargo Insurance,Monday,October,2015,08:00:00,,
+1,Marine Cargo Insurance,Monday,October,2015,08:00:00,,
+1,Marine Cargo Insurance,Monday,October,2015,08:00:00,,
+1,Marine Cargo Insurance,Tuesday,October,2015,08:00:00,,
+1,Marine Cargo Insurance,Monday,October,2015,08:00:00,,
+1,Motor Private,Thursday,November,2015,17:30:00,Procurement,Travelling from Work
+1,Motor Private,Monday,November,2015,08:00:00,,Personal / Leisure
+1,Motor Private,Saturday,December,2015,11:00:00,Engineer,Personal / Leisure
+1,Motor Private,Wednesday,December,2015,19:00:00,Finance & Accounting,Personal / Leisure
+1,Motor Private,Saturday,December,2015,08:00:00,,Personal / Leisure
+1,Marine Cargo Insurance,Friday,January,2016,,,
+1,Marine Cargo Insurance,Thursday,January,2015,,,
+1,Motor Private,Thursday,January,2016,08:00:00,Procurement,Personal / Leisure
+1,Marine Cargo Insurance,Monday,February,2016,,,
+1,Marine Cargo Insurance,Wednesday,February,2016,08:00:00,,
+1,Motor Private,Monday,February,2016,08:20:00,Sales and Marketing,Travelling to Work
+1,Motor Private,Saturday,February,2016,,,
+1,Motor Private,Monday,March,2016,11:30:00,Finance & Accounting,Vehicle was Stationary
+1,Motor Private,Monday,March,2016,16:40:00,Engineer,Personal / Leisure
+1,Motor Private,Wednesday,March,2016,10:00:00,Driver,Business use
+1,Motor Private,Monday,March,2016,05:15:00,Engineer,Travelling to Work
+1,Motor Commercial,Monday,April,2016,20:45:00,Driver,Travelling from Work
+1,Motor Private,Thursday,April,2016,08:00:00,Finance & Accounting,Personal / Leisure
+1,Motor Private,Thursday,May,2016,08:30:00,Sales and Marketing,Personal / Leisure
+1,Marine Cargo Insurance,Friday,May,2016,,,
+1,Motor Private,Wednesday,July,2016,11:50:00,Driver,Personal / Leisure
+1,WIBA,Tuesday,July,2016,14:05:00,Engineer,
+1,Motor Private,Monday,July,2016,,,
+1,Motor Private,Wednesday,July,2016,00:30:00,Driver,Personal / Leisure
+1,Motor Private,Tuesday,September,2016,09:00:00,Engineer,Personal / Leisure
+1,Motor Private,Wednesday,September,2016,08:00:00,Facilities manager,Personal / Leisure
+1,Motor Private,Wednesday,September,2016,08:00:00,Engineer,Vehicle was Stationary
+1,Motor Private,Sunday,October,2016,22:30:00,Engineer,Personal / Leisure
+1,Motor Private,Wednesday,November,2016,,,
+1,Marine Cargo Insurance,Monday,November,2016,,,
+1,Motor Private,Thursday,November,2016,08:00:00,,Vehicle was Stationary
+1,Motor Private,Tuesday,November,2016,13:00:00,Mechanic / Service Advisor,Personal / Leisure
+1,Motor Private,Saturday,December,2016,22:30:00,Engineer,Personal / Leisure
+1,Motor Private,Monday,December,2016,05:30:00,Engineer,Travelling to Work
+1,Motor Private,Sunday,December,2016,18:00:00,Engineer,Personal / Leisure
+1,Motor Private,Thursday,December,2016,18:15:00,Finance & Accounting,Personal / Leisure
+1,Motor Private,Saturday,February,2017,22:00:00,Engineer,Personal / Leisure
+1,Motor Private,Thursday,February,2017,19:30:00,Engineer,Personal / Leisure
+1,WIBA,Sunday,December,2016,,,
+1,Motor Private,Wednesday,March,2017,19:00:00,Food Processor,Travelling from Work
+1,Motor Private,Sunday,April,2017,21:15:00,Engineer,Personal / Leisure
+1,Motor Private,Sunday,May,2017,08:00:00,,Personal / Leisure
+1,Motor Private,Friday,June,2017,15:00:00,Mechanic / Service Advisor,Personal / Leisure
+1,Marine Cargo Insurance,Monday,July,2017,08:00:00,,
+1,Marine Cargo Insurance,Wednesday,September,2017,08:00:00,,
+1,Motor Private,Sunday,October,2017,17:15:00,Top Executive,Personal / Leisure
+1,Motor Private,Wednesday,October,2017,08:00:00,Top Executive,Personal / Leisure
+1,Marine Cargo Insurance,Tuesday,October,2017,08:00:00,,
+1,Marine Cargo Insurance,Monday,October,2017,08:00:00,,
+1,Marine Cargo Insurance,Wednesday,November,2017,08:00:00,,
+1,Motor Private,Saturday,November,2017,08:00:00,Finance & Accounting,Personal / Leisure
+1,Marine Cargo Insurance,Thursday,January,2018,08:00:00,,
+1,Motor Private,Monday,January,2018,08:00:00,,Vehicle was Stationary
+1,Motor Private,Thursday,January,2018,21:30:00,Procurement,Travelling from Work
+1,Motor Private,Monday,February,2018,00:15:00,Engineer,Personal / Leisure
+1,Marine Cargo Insurance,Monday,February,2018,08:00:00,,
+1,Marine Cargo Insurance,Tuesday,March,2018,08:00:00,,
+1,Motor Private,Thursday,May,2018,15:59:00,Community and Social Service,Personal / Leisure
+1,Marine Cargo Insurance,Friday,May,2018,08:00:00,,
+1,Motor Private,Saturday,May,2018,08:00:00,Engineer,Personal / Leisure
+1,Motor Private,Friday,June,2018,13:00:00,Sales and Marketing,Personal / Leisure
+1,Marine Cargo Insurance,Thursday,June,2018,08:00:00,,
+1,Motor Private,Tuesday,June,2018,08:00:00,Office Administrator,Vehicle was Stationary
+1,Motor Private,Tuesday,June,2018,17:15:00,Sales and Marketing,Personal / Leisure
+1,Motor Private,Tuesday,July,2018,08:00:00,Finance & Accounting,Personal / Leisure
+1,Marine Cargo Insurance,Wednesday,July,2018,,,
+1,Motor Private,Monday,July,2018,06:00:00,Engineer,Travelling to Work
+1,Motor Private,Monday,July,2018,08:00:00,Top Executive,Personal / Leisure
+1,Motor Private,Thursday,August,2018,09:05:00,Sales and Marketing,Personal / Leisure
+1,Motor Private,Tuesday,September,2018,22:30:00,Driver,Business use
+1,Marine Cargo Insurance,Sunday,September,2018,08:00:00,,
+1,Motor Private,Friday,October,2018,07:00:00,Engineer,Personal / Leisure
+1,Motor Private,Monday,October,2018,08:00:00,Engineer,Personal / Leisure
+1,Marine Cargo Insurance,Tuesday,November,2018,08:00:00,,
+1,Motor Private,Monday,November,2018,17:00:00,Engineer,Personal / Leisure
+1,Motor Private,Wednesday,November,2018,00:00:00 ,Top Executive,Personal / Leisure
+1,Marine Cargo Insurance,Monday,November,2018,08:00:00,,
+1,Motor Private,Saturday,December,2018,09:00:00,Engineer,Personal / Leisure
+1,Motor Private,Tuesday,December,2018,17:00:00 ,Engineer,Business use
+1,Marine Cargo Insurance,Wednesday,March,2019,08:00:00,,
+1,Motor Private,Friday,April,2019,13:30:00 ,Driver,Business use
+1,Motor Private,Friday,July,2019,08:00:00,Sales and Marketing,Personal / Leisure
+1,Marine Cargo Insurance,Thursday,July,2019,08:00:00,,
+1,WIBA,Sunday,July,2019,,,
+1,Motor Private,Wednesday,July,2019,19:30:00,Sales and Marketing,Personal / Leisure
+1,Motor Private,Friday,September,2019,08:00:00,Procurement,Personal / Leisure
+1,Motor Commercial,Wednesday,September,2019,08:00:00,,Business use
+1,Motor Private,Tuesday,October,2019,18:00:00 ,Sales and Marketing,Personal / Leisure
+1,Motor Private,Friday,October,2019,10:30:00,Engineer,Personal / Leisure
+1,Motor Private,Monday,November,2019,14:00:00,Finance & Accounting,Personal / Leisure
+1,Motor Private,Sunday,May,2019,08:00:00,Top Executive,Personal / Leisure
+1,Motor Private,Friday,December,2019,08:00:00,Engineer,Personal / Leisure
+1,Motor Private,Thursday,January,2020,06:30:00 ,Engineer,Personal / Leisure
+1,Motor Private,Tuesday,February,2020,08:00:00,Finance & Accounting,Personal / Leisure
+1,Motor Private,Friday,February,2020,08:00:00,Top Executive,Personal / Leisure
+1,Motor Private,Tuesday,April,2020,18:30:00,Procurement,Personal / Leisure
+1,Marine Cargo Insurance,Wednesday,June,2020,08:00:00,,
+1,Motor Private,Wednesday,July,2020,08:30:00 ,Driver,Personal / Leisure
+1,Motor Private,Thursday,July,2020,14:00:00 ,Engineer,Personal / Leisure
+1,Marine Cargo Insurance,Saturday,August,2020,08:00:00,,
+1,Motor Private,Wednesday,September,2020,14:00:00,Engineer,Business use
+1,Motor Private,Wednesday,October,2020,14:20:00 ,Engineer,Personal / Leisure
+1,Motor Private,Tuesday,November,2020,08:00:00,Engineer,Personal / Leisure
+1,Motor Private,Sunday,November,2020,07:20:00 ,Engineer,Personal / Leisure
+1,Motor Private,Wednesday,December,2020,08:00:00,,Personal / Leisure
+1,Motor Private,Sunday,January,2021,22:30:00,Engineer,Personal / Leisure
+1,Motor Private,Sunday,March,2021,21:15:00,Engineer,Personal / Leisure
+1,Motor Private,Sunday,July,2021,08:00:00,Sales and Marketing,Personal / Leisure
+1,Motor Private,Friday,August,2021,06:57:00,Engineer,Travelling to Work
+1,Motor Private,Friday,August,2021,08:00:00,,Personal / Leisure
+1,Motor Private,Tuesday,August,2021,08:00:00,Engineer,Personal / Leisure
+1,Motor Private,Wednesday,September,2021,18:15:00,Sales and Marketing,Personal / Leisure
+1,Motor Private,Friday,September,2021,17:48:00 ,Procurement,Personal / Leisure
+1,Motor Private,Thursday,September,2021,13:00:00,Engineer,Personal / Leisure
+1,Motor Private,Wednesday,December,2021,08:00:00,Finance & Accounting,Personal / Leisure
+1,Motor Private,Monday,December,2021,15:15:00,,
+1,Motor Private,Sunday,January,2022,15:00:00,Engineer,Vehicle was Stationary
+1,Motor Private,Thursday,January,2022,16:00:00 ,,Travelling from Work
+1,Motor Private,Sunday,March,2022,00:00:00,,Personal / Leisure
+1,Motor Private,Monday,August,2022,12:00:00 ,Mechanic / Service Advisor,Personal / Leisure
+1,Motor Private,Tuesday,September,2022,07:40:00,,
+1,Motor Private,Sunday,October,2022,05:00:00,Finance & Accounting,Personal / Leisure
+1,Motor Private,Sunday,December,2022,09:19:19,,
+1,Motor Private,Sunday,December,2022,00:00:01,,
